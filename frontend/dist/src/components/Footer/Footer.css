@@ -1,0 +1,13 @@
+.footer {
+  background-color: var(--container-color);
+}
+.copyright__text {
+  padding-block: 1.25rem;
+  border-top: 2px dashed hsla(0, 0%, 100%, 0.1);
+  text-align: center;
+  color: var(--title-color);
+  font-family: var(--second-font);
+}
+.copyright__text span {
+  color: var(--first-color);
+}
