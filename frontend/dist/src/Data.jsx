@@ -13,7 +13,7 @@ import {
   FaInstagram,
   FaRegEnvelope,
 } from "react-icons/fa";
-
+import movie from "./assets/movie.png";
 import coffee from "./assets/coffee.png";
 import food from "./assets/food.png";
 import curd from "./assets/crud.png";
@@ -126,6 +126,14 @@ export const socials = [
 ];
 
 export const project = [
+  {
+    img: movie,
+    title: "MOVIE SEARCH APP",
+    category: "Full-stack Developer",
+    description:
+      "Developed a React-based web application utilizing the TMDB API to provide users with a comprehensive movie search and information platform.Implemented real-time search functionality and details of display movie. ",
+    path: "https://movie-search-app-git-f-288e92-priyanka-yadavs-projects-b8c5f326.vercel.app/ ",
+  },
   {
     img: coffee,
     title: "COFFERO",
