@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import photo from "../../assets/priyanka.jpg";
-import resume from "../../assets/Resume.pdf";
+import resume from "../../assets/priyankapsy.pdf";
 import { FiCheck } from "react-icons/fi";
 
 const About = () => {
